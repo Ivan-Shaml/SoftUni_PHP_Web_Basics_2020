@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../../:\Users\P4Nd4-PC\PhpstormProjects\SoftUni_PHP_Web_Basics\.idea/dataSources/
+/../../../../../:\wamp64\www\11. Workshop_dbDrivenApp\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
