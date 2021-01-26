@@ -78,6 +78,14 @@ class Person
     {
         $this->occupation = $occupation;
     }
+
+    /**
+     * @return string
+     */
+    public function __toString(): string
+    {
+        return "{$this->getName()} - age: {$this->getAge()}, occupation: {$this->getOccupation()}\n";
+    }
 }
 
 $people = [];
@@ -92,4 +100,11 @@ while ($input !== "END"){
     $input = readline();
 }
 
-print_r($people);
+usort($people, function (Person $p1, Person $p2){
+    return $p1->getAge() <=> $p2->getAge();
+});
+
+/** @var Person $person */
+foreach ($people as $person){
+    echo $person;
+}
