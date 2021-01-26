@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Pr8.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr8.php">
+  <configuration default="false" name="Pr8.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr8.php">
     <CommandLine>
       <PhpTestInterpreterSettings>
         <option name="interpreterName" value="PHP" />

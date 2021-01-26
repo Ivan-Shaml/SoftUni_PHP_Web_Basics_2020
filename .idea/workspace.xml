@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Pr8_php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pr8_php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr8.php" beforeDir="false" afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr8.php" beforeDir="false" afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr8.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +22,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1ncEQDel7YIfrqHRDBY6RmPR2DL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,14 +44,34 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="PHP Script.Pr9.php">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\13. Defining Classes\Lectures\Lab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.Pr9.php (1)">
+    <configuration name="Pr1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pr2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr2.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pr6And7.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr6And7.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pr9.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr9.php">
+      <method v="2" />
+    </configuration>
     <configuration name="Pr9.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr9.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Pr9.php (1)" />
+        <item itemvalue="PHP Script.Pr6And7.php" />
+        <item itemvalue="PHP Script.Pr2.php" />
+        <item itemvalue="PHP Script.Pr1.php" />
         <item itemvalue="PHP Script.Pr9.php" />
-        <item itemvalue="PHP Script.Pr8.php" />
       </list>
     </recent_temporary>
   </component>
@@ -58,8 +83,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611680969640</updated>
-      <workItem from="1611680978394" duration="3966000" />
+      <workItem from="1611680978394" duration="4290000" />
+      <workItem from="1611687936671" duration="2272000" />
     </task>
+    <task id="LOCAL-00001" summary="m">
+      <created>1611685799187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611685799187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +109,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="m" />
+    <option name="LAST_COMMIT_MESSAGE" value="m" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
