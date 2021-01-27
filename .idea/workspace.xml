@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Example2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr16.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr18.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr20.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,17 +47,17 @@
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\13. Defining Classes\Lectures\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.Pr10.php">
-    <configuration name="Example1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Example1.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="Example2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Example2.php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.Pr20.php">
     <configuration name="Pr10.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr10.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr2.php">
+    <configuration name="Pr16.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr16.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pr18.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr18.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pr20.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr20.php">
       <method v="2" />
     </configuration>
     <configuration name="Pr9.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr9.php">
@@ -65,11 +65,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Pr20.php" />
+        <item itemvalue="PHP Script.Pr16.php" />
+        <item itemvalue="PHP Script.Pr18.php" />
         <item itemvalue="PHP Script.Pr10.php" />
         <item itemvalue="PHP Script.Pr9.php" />
-        <item itemvalue="PHP Script.Example2.php" />
-        <item itemvalue="PHP Script.Example1.php" />
-        <item itemvalue="PHP Script.Pr2.php" />
       </list>
     </recent_temporary>
   </component>
@@ -83,6 +83,7 @@
       <updated>1611680969640</updated>
       <workItem from="1611680978394" duration="4290000" />
       <workItem from="1611687936671" duration="9617000" />
+      <workItem from="1611742283271" duration="10465000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
