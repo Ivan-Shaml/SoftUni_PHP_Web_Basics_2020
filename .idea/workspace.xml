@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr6.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Pr8_php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Pr8_php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Example2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr9.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr8.php" beforeDir="false" afterPath="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr8.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,29 +47,29 @@
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\13. Defining Classes\Lectures\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.Pr9.php (1)">
-    <configuration name="Pr1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr1.php">
+  <component name="RunManager" selected="PHP Script.Pr10.php">
+    <configuration name="Example1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Example1.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Example2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Example2.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Pr10.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr10.php">
       <method v="2" />
     </configuration>
     <configuration name="Pr2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr2.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr6And7.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr6And7.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="Pr9.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Lab/Pr9.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="Pr9.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lectures/Pr9.php">
+    <configuration name="Pr9.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr9.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.Pr9.php (1)" />
-        <item itemvalue="PHP Script.Pr6And7.php" />
-        <item itemvalue="PHP Script.Pr2.php" />
-        <item itemvalue="PHP Script.Pr1.php" />
+        <item itemvalue="PHP Script.Pr10.php" />
         <item itemvalue="PHP Script.Pr9.php" />
+        <item itemvalue="PHP Script.Example2.php" />
+        <item itemvalue="PHP Script.Example1.php" />
+        <item itemvalue="PHP Script.Pr2.php" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611680969640</updated>
       <workItem from="1611680978394" duration="4290000" />
-      <workItem from="1611687936671" duration="2272000" />
+      <workItem from="1611687936671" duration="9617000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -93,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611685799187</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab 13 Finished">
+      <created>1611690564069</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611690564069</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +118,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="m" />
-    <option name="LAST_COMMIT_MESSAGE" value="m" />
+    <MESSAGE value="Lab 13 Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 13 Finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
