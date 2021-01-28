@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lectures/Lab/AllProblems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr1-2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +41,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -45,29 +50,29 @@
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\13. Defining Classes\Lectures\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.AllProblems.php">
-    <configuration name="AllProblems.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lectures/Lab/AllProblems.php">
+  <component name="RunManager" selected="PHP Script.Pr-II-3.php">
+    <configuration name="Pr-II-1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-1.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr10.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr10.php">
+    <configuration name="Pr-II-2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-2.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr16.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr16.php">
+    <configuration name="Pr-II-3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-3.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr18.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr18.php">
+    <configuration name="Pr1-2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr1-2.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr20.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/13. Defining Classes/Lab Exercises/Pr20.php">
+    <configuration name="Pr3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr3.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.AllProblems.php" />
-        <item itemvalue="PHP Script.Pr20.php" />
-        <item itemvalue="PHP Script.Pr16.php" />
-        <item itemvalue="PHP Script.Pr18.php" />
-        <item itemvalue="PHP Script.Pr10.php" />
+        <item itemvalue="PHP Script.Pr-II-3.php" />
+        <item itemvalue="PHP Script.Pr-II-2.php" />
+        <item itemvalue="PHP Script.Pr-II-1.php" />
+        <item itemvalue="PHP Script.Pr3.php" />
+        <item itemvalue="PHP Script.Pr1-2.php" />
       </list>
     </recent_temporary>
   </component>
@@ -82,7 +87,10 @@
       <workItem from="1611680978394" duration="4290000" />
       <workItem from="1611687936671" duration="9617000" />
       <workItem from="1611742283271" duration="11168000" />
-      <workItem from="1611755370212" duration="10728000" />
+      <workItem from="1611755370212" duration="10793000" />
+      <workItem from="1611782105868" duration="10986000" />
+      <workItem from="1611835517345" duration="3285000" />
+      <workItem from="1611838915176" duration="3248000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -105,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611753820287</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Finished Lab 15">
+      <created>1611773970017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611773970017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -127,7 +142,8 @@
     <MESSAGE value="m" />
     <MESSAGE value="Lab 13 Finished" />
     <MESSAGE value="Finished Lab Exercises 13" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Lab Exercises 13" />
+    <MESSAGE value="Finished Lab 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Lab 15" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
