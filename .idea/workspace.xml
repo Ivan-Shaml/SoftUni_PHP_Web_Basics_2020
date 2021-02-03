@@ -2,12 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr1-2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/CatFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/CatFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Cymric.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Siamese.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/StreetExtraordinaire.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Citizen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Animal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/AnimalFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/AnimalFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Felime.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Food.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/FoodFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/FoodFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Mammal.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Meat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Mouse.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Tiger.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Vegetable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Zebra.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Factories/VehicleFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Factories/VehicleFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/Bus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/Car.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/Truck.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/VehicleAbstract.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/VehicleInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lectures/Lab/AllProblems.php" beforeDir="false" afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lectures/Lab/AllProblems.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,37 +71,42 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\15. Encapsulation and Inheritance\Lab Exercises" />
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lab Exercises" />
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lectures\Lab\Problem1" />
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lectures\Lab\Problem1\Vehicles" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\13. Defining Classes\Lectures\Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.Pr-II-3.php">
-    <configuration name="Pr-II-1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-1.php">
+  <component name="RunManager" selected="PHP Script.Main.php (2)">
+    <configuration name="Main.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Main.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr-II-2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-2.php">
+    <configuration name="Main.php (2)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Main.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Main.php">
       <method v="2" />
     </configuration>
     <configuration name="Pr-II-3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr-II-3.php">
       <method v="2" />
     </configuration>
-    <configuration name="Pr1-2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr1-2.php">
-      <method v="2" />
-    </configuration>
-    <configuration name="Pr3.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/Pr3.php">
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/index.php">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Main.php (2)" />
+        <item itemvalue="PHP Script.Main.php (1)" />
+        <item itemvalue="PHP Script.Main.php" />
+        <item itemvalue="PHP Script.index.php" />
         <item itemvalue="PHP Script.Pr-II-3.php" />
-        <item itemvalue="PHP Script.Pr-II-2.php" />
-        <item itemvalue="PHP Script.Pr-II-1.php" />
-        <item itemvalue="PHP Script.Pr3.php" />
-        <item itemvalue="PHP Script.Pr1-2.php" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +124,12 @@
       <workItem from="1611755370212" duration="10793000" />
       <workItem from="1611782105868" duration="10986000" />
       <workItem from="1611835517345" duration="3285000" />
-      <workItem from="1611838915176" duration="3248000" />
+      <workItem from="1611838915176" duration="3494000" />
+      <workItem from="1611845368325" duration="1205000" />
+      <workItem from="1611861916302" duration="6629000" />
+      <workItem from="1611913765712" duration="5433000" />
+      <workItem from="1612281461150" duration="2200000" />
+      <workItem from="1612382962109" duration="11859000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -120,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611773970017</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lab Exercises for 15. Finished">
+      <created>1611842397729</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611842397729</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,7 +189,8 @@
     <MESSAGE value="Lab 13 Finished" />
     <MESSAGE value="Finished Lab Exercises 13" />
     <MESSAGE value="Finished Lab 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Lab 15" />
+    <MESSAGE value="Lab Exercises for 15. Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab Exercises for 15. Finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

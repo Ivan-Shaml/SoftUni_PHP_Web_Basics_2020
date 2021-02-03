@@ -25,7 +25,7 @@ class Vehicle
     protected $year;
 
     /**
-     * Vehicle constructor.
+     * VehicleAbstract constructor.
      * @param int $numberDoors
      * @param string $color
      * @param string $brand
@@ -239,7 +239,7 @@ class Bicycle extends Vehicle
 //$door = 4;//intval(readline());
 //$cl = "red";//readline();
 
-//$vh = new Vehicle($door,$cl);
+//$vh = new VehicleAbstract($door,$cl);
 
 //echo $vh->__get("numberDoors");
 
