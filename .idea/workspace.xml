@@ -2,41 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Cat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/CatFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/CatFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Cymric.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/Siamese.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lab Exercises/CatLady/StreetExtraordinaire.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Citizen.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/Ex1/Person/Person.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Animal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/AnimalFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/AnimalFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Cat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Felime.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Food.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/FoodFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/FoodFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Mammal.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Meat.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Mouse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Tiger.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Vegetable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lab Exercises/WildFarm/Zebra.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Factories/VehicleFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Factories/VehicleFactoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/Bus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/Car.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/Truck.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/VehicleAbstract.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/Vehicles/VehicleInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17. Polymorphism, Interfaces and Abstraction/Lectures/Lab/Problem1-2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Cookies/another.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Cookies/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Cookies/third.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/another.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/third.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Data/Users/UserDTO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Data/Users/UserEditDTO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/DatabaseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/DatabaseStatement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/DatabaseStatementInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/PDODatabase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Exception/User/EditProfileException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Exception/User/RegistrationException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Exception/User/UploadException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Repositories/Users/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Repositories/Users/UserRepositoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/ArgonEncryptionService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/BCryptEncryptionService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/CaesarCipherEncryptionService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/EncryptionServiceInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Users/UserService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Users/UserServiceInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/edit_profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/public/images/profile_601c18701c1bc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/secure_common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/edit_profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/register.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lectures/Lab/AllProblems.php" beforeDir="false" afterPath="$PROJECT_DIR$/15. Encapsulation and Inheritance/Lectures/Lab/AllProblems.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +60,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -76,12 +79,15 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\19. Session Handling and Authentication\Lectures\Sessions" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\19. Session Handling and Authentication\Lectures\Cookies" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\15. Encapsulation and Inheritance\Lab Exercises" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lab Exercises" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lectures\Lab\Problem1" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lectures\Lab\Problem1\Vehicles" />
-      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\13. Defining Classes\Lectures\Lab" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.Main.php (2)">
@@ -129,7 +135,8 @@
       <workItem from="1611861916302" duration="6629000" />
       <workItem from="1611913765712" duration="5433000" />
       <workItem from="1612281461150" duration="2200000" />
-      <workItem from="1612382962109" duration="11859000" />
+      <workItem from="1612382962109" duration="12518000" />
+      <workItem from="1612443350812" duration="7899000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -166,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611842397729</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Polymorphism, Interfaces and Abstraction Lectures Lab And Exercises Part1">
+      <created>1612395218587</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612395218587</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +204,8 @@
     <MESSAGE value="Finished Lab Exercises 13" />
     <MESSAGE value="Finished Lab 15" />
     <MESSAGE value="Lab Exercises for 15. Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab Exercises for 15. Finished" />
+    <MESSAGE value="Polymorphism, Interfaces and Abstraction Lectures Lab And Exercises Part1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism, Interfaces and Abstraction Lectures Lab And Exercises Part1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
