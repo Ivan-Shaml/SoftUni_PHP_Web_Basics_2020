@@ -2,41 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Cookies/another.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Cookies/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Cookies/third.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/another.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/logout.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions/third.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Data/Users/UserDTO.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Data/Users/UserEditDTO.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/DatabaseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/DatabaseStatement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/DatabaseStatementInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Database/PDODatabase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Exception/User/EditProfileException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Exception/User/RegistrationException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Exception/User/UploadException.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Repositories/Users/UserRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Repositories/Users/UserRepositoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/ArgonEncryptionService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/BCryptEncryptionService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/CaesarCipherEncryptionService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Encryption/EncryptionServiceInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Users/UserService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/Services/Users/UserServiceInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/common.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/edit_profile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/profile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/public/images/profile_601c18701c1bc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/secure_common.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/edit_profile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/login.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/profile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/login_app/views/users/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Data/UserDTO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Repository/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Repository/UserRepositoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Services/UserService.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Services/UserServiceInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Core/Template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Core/TemplateInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/DatabaseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/PDODatabase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/PDOResultSet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/PDOStatement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/ResultSetInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/StatementInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +29,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1ncEQDel7YIfrqHRDBY6RmPR2DL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -62,11 +49,11 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/19. Session Handling and Authentication/Lectures/Sessions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,14 +67,15 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\19. Session Handling and Authentication\Lab Exercises" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\19. Session Handling and Authentication\Lectures\Sessions" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\19. Session Handling and Authentication\Lab Exercises\App" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\19. Session Handling and Authentication\Lectures\Cookies" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\15. Encapsulation and Inheritance\Lab Exercises" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lab Exercises" />
       <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lectures\Lab\Problem1" />
-      <recent name="C:\wamp64\www\SoftUni_PHP_Web_Basics\17. Polymorphism, Interfaces and Abstraction\Lectures\Lab\Problem1\Vehicles" />
     </key>
   </component>
   <component name="RunManager" selected="PHP Script.Main.php (2)">
@@ -136,7 +124,10 @@
       <workItem from="1611913765712" duration="5433000" />
       <workItem from="1612281461150" duration="2200000" />
       <workItem from="1612382962109" duration="12518000" />
-      <workItem from="1612443350812" duration="7899000" />
+      <workItem from="1612443350812" duration="8200000" />
+      <workItem from="1612534352636" duration="3231000" />
+      <workItem from="1612553710527" duration="695000" />
+      <workItem from="1612554432776" duration="4287000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -180,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612395218587</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="19. Session Handling and Authentication - Lecture Finished">
+      <created>1612455358811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612455358811</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +203,8 @@
     <MESSAGE value="Finished Lab 15" />
     <MESSAGE value="Lab Exercises for 15. Finished" />
     <MESSAGE value="Polymorphism, Interfaces and Abstraction Lectures Lab And Exercises Part1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism, Interfaces and Abstraction Lectures Lab And Exercises Part1" />
+    <MESSAGE value="19. Session Handling and Authentication - Lecture Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="19. Session Handling and Authentication - Lecture Finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
