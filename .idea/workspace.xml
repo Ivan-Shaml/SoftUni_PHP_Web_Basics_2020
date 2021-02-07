@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Data/UserDTO.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Repository/UserRepository.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Repository/UserRepositoryInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Services/UserService.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/App/Services/UserServiceInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Core/Template.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Core/TemplateInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/DatabaseInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/PDODatabase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/PDOResultSet.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/PDOStatement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/ResultSetInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/Database/StatementInterface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19. Session Handling and Authentication/Lab Exercises/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,7 +113,8 @@
       <workItem from="1612443350812" duration="8200000" />
       <workItem from="1612534352636" duration="3231000" />
       <workItem from="1612553710527" duration="695000" />
-      <workItem from="1612554432776" duration="4287000" />
+      <workItem from="1612554432776" duration="4389000" />
+      <workItem from="1612716616879" duration="588000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -178,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612455358811</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Session Handling and Authentication - Exercise - Finished">
+      <created>1612558816953</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612558816953</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +198,8 @@
     <MESSAGE value="Lab Exercises for 15. Finished" />
     <MESSAGE value="Polymorphism, Interfaces and Abstraction Lectures Lab And Exercises Part1" />
     <MESSAGE value="19. Session Handling and Authentication - Lecture Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="19. Session Handling and Authentication - Lecture Finished" />
+    <MESSAGE value="Session Handling and Authentication - Exercise - Finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Session Handling and Authentication - Exercise - Finished" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
