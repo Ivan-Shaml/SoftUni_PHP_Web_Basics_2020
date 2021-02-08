@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Repository/UserRepository.php" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/Database/create_db.sql" dialect="MySQL" />
+    <file url="PROJECT" dialect="MySQL" />
+  </component>
+</project>
