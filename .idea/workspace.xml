@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bca5d07-6c5e-45f1-ac00-31a65cba59fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/Database/create_db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9dd16ba3-1a9e-4025-8823-975f5bc878f9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9dd16ba3-1a9e-4025-8823-975f5bc878f9.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Http/UserHttpHandler.php" beforeDir="false" afterPath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Http/UserHttpHandler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Service/UserService.php" beforeDir="false" afterPath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Service/UserService.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Template/users/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Template/users/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Template/users/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/22. Workshop-Creating an ORMView engine/App/Template/users/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,9 @@
       <workItem from="1612716616879" duration="781000" />
       <workItem from="1612795371910" duration="2241000" />
       <workItem from="1612798082227" duration="102000" />
-      <workItem from="1612798203864" duration="2713000" />
+      <workItem from="1612798203864" duration="3328000" />
+      <workItem from="1612861270309" duration="635000" />
+      <workItem from="1612880992047" duration="3452000" />
     </task>
     <task id="LOCAL-00001" summary="m">
       <created>1611685799187</created>
@@ -185,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612717317556</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added SQL Code For Create 'Users' Table">
+      <created>1612801541724</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612801541724</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,7 +223,8 @@
     <MESSAGE value="19. Session Handling and Authentication - Lecture Finished" />
     <MESSAGE value="Session Handling and Authentication - Exercise - Finished" />
     <MESSAGE value="22. Workshop Creating an ORMView engine - Lab Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="22. Workshop Creating an ORMView engine - Lab Exercises" />
+    <MESSAGE value="Added SQL Code For Create 'Users' Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SQL Code For Create 'Users' Table" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

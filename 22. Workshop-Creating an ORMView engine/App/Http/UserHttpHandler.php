@@ -63,7 +63,7 @@ class UserHttpHandler extends UserHttpHandlerAbstract
         if ($userService->register($user, $formData['confirm_password'])) {
             $this->redirect("login.php");
         } else {
-            $this->render("users/register", null,
+            $this->render("users/register", $user,
                 new ErrorDTO("Password mismatch."));
         }
     }

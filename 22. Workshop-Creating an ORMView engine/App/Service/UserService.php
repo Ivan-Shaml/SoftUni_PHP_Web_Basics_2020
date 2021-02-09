@@ -74,7 +74,16 @@ class UserService implements UserServiceInterface
 
     public function edit(UserDTO $userDTO): bool
     {
-        if(null !== $this->userRepository->findOneByUsername($userDTO->getUsername())){
+        /** @var $currentUser UserDTO */
+        $currentUser = $this->currentUser();
+        $currentUserUserNameChanged = false;
+        if(null !== $currentUser){
+            $currentUser->getUsername() !== $userDTO->getUsername() ? $currentUserUserNameChanged = true : $currentUserUserNameChanged = false;
+        } else{
+            return false;
+        }
+
+        if( $currentUserUserNameChanged && (null !== $this->userRepository->findOneByUsername($userDTO->getUsername())) ){
             return false;
         }
 

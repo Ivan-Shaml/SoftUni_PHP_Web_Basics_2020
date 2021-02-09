@@ -11,7 +11,7 @@
 
 <form method="post">
     <label>
-        Username: <input type="text" name="username" value="<?= isset($_POST['username']) ? $_POST['username'] : null  ?>"/> <br/>
+        Username: <input type="text" name="username" value="<?= $data === null ? null : $data->getUsername() ?>"/> <br/>
     </label>
     <label>
         Password: <input type="text" name="password" value="" /> <br/>
