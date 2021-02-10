@@ -4,6 +4,9 @@ spl_autoload_register(function ($class) {
     if (file_exists($file))
         require_once $file;
 });
+
+const TEST_ENV_URI = "/SoftUni_PHP_Web_Basics/23.%20Routing%20and%20MVC/Lectures/";
+
 $router = new \Routing\Router();
 
 require_once 'routes.php';
@@ -12,6 +15,7 @@ $self = $_SERVER['PHP_SELF'];
 $junk = str_replace('index.php', '', $self);
 
 $uri = str_replace($junk, '', $_SERVER['REQUEST_URI']);
+$uri = str_replace(TEST_ENV_URI, '', $_SERVER['REQUEST_URI']);
 $uriInfo = explode('/', $uri);
 
 $controllerName = array_shift($uriInfo);
